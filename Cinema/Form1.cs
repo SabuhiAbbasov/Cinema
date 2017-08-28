@@ -97,7 +97,7 @@ namespace Cinema
         {
             foreach (var item in btns)
             {
-                label2.Text = "This place has already booked: " + item.Text;
+                label2.Text = "Bu yerlər artıq buron olunub: " + item.Text;
             }
         }
 
