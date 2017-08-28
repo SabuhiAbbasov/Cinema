@@ -63,7 +63,7 @@ namespace Cinema
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.BackColor = Color.LightGray;
+            button1.BackColor = Color.LightSlateGray;
             price=0;
         }
 
@@ -75,10 +75,7 @@ namespace Cinema
             price += 6;
             foreach (var item in btns)
             {
-                if (true)
-                {
 
-                }
                 item.Click += new System.EventHandler(this.btnRepeatClick);
                 
             }
