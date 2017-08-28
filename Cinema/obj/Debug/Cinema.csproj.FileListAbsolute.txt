@@ -1,0 +1,19 @@
+c:\users\admin\documents\visual studio 2017\Projects\Cinema\Cinema\bin\Debug\Cinema.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\Cinema\Cinema\bin\Debug\Cinema.exe
+c:\users\admin\documents\visual studio 2017\Projects\Cinema\Cinema\bin\Debug\Cinema.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.Form1.resources
+c:\users\admin\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.exe
+c:\users\admin\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\Users\sebuhi\Desktop\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\sebuhi\Desktop\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\sebuhi\Desktop\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\sebuhi\Desktop\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\Users\sebuhi\Desktop\Cinema\Cinema\obj\Debug\Cinema.Form1.resources
+C:\Users\sebuhi\Desktop\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Users\sebuhi\Desktop\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.Cache
+C:\Users\sebuhi\Desktop\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\sebuhi\Desktop\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\sebuhi\Desktop\Cinema\Cinema\obj\Debug\Cinema.pdb
